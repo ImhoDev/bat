@@ -1,0 +1,7 @@
+REM para windows 10
+ie4uinit.exe -show
+REM para win 8, 7 o XP
+ie4uinit.exe -ClearIconCache
+taskkill /IM explorer.exe /F
+CD /d %userprofile%/AppData/Local
+DEL IconCache.db /a
