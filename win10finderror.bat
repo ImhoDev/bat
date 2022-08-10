@@ -8,3 +8,5 @@ REM 3. En otra ventana diríjanse a C:\Windows\system32, ubiquen el archivo "ctf
 REM 4. Diríjanse al escritorio, ubiquen el acceso directo y cámbienle el nombre para que quede solo como "ctfmon" (sin las comillas).
 REM 5. Peguen ese acceso directo en la ventana que se abrió en el paso 2.
 REM 6. Reinicien el ordenador. Eso es todo.
+
+REM si el problema persiste leer este articulo https://docs.microsoft.com/es-es/troubleshoot/windows-client/shell-experience/fix-problems-in-windows-search
